@@ -22,5 +22,6 @@
 
 
 from .mix import MixSpeakerDiarization
+from .speedperturb import SpeedPerturbDiarization
 
-__all__ = ["MixSpeakerDiarization"]
+__all__ = ["MixSpeakerDiarization","SpeedPerturbDiarization"]
